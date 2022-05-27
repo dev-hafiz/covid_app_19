@@ -3,4 +3,5 @@ export const colors = {
   melon: "#FF4D58",
   waterBlue: "#4D79FF",
   white: "#ffffff",
+  black:"#000000"
 };
